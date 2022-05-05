@@ -51,7 +51,7 @@ menuitems:
         url:      /index.html }
     - { title:    Projects,
         url:      /projects.html }
-    - { title:    Publications,
+    - { title:    Book and Paper Publications,
         url:      /publications.html }
     - { title:    Curriculum Vitae,
         url:      /cv.html}
@@ -143,7 +143,7 @@ JB :
   # Add a google plus one button 	  => provider : googleplus
   # Add a facebook like button        => provider : facebook
   # Add a twitter button              => provider : twitter
-  # Add a linkedin button             => provider : linkedin
+   Add a linkedin button             => provider : linkedin
   # Set 'provider' to the sharing provider you want to use.
   # Set 'provider' to false to turn sharing off globally.
   # Set 'provider' to an array of sharing providers if you want to use more than one
