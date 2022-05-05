@@ -26,35 +26,24 @@ img {
 }
 </style>
 
-<img src="/img/main/kanubala_headshot.jpg" class="center" style="width:250px">
+<img src="/img/main/mama.jpg" class="center" style="width:250px">
 
 
 ### About Me
+Dr. Abujaja is a Senior Lecturer and a Head of Department for Agricultural and Consumer Sciences Education at the University for Development Studies. She is engaged in Gender, Agribusiness and extension related research in and outside the university, working with local, international and non-governmental organizations interested in Gender, Rural Development, Agribusiness and Extension related issues in especially rural communities in northern Ghana. Wit over 30 years’ experience in teaching all levels of the Ghanaian educational ladder (i.e., Basic, Secondary and Tertiary). She is also a highly driven research-oriented person both in nature and attitude and currently has more than [14 research publications](https://www.researchgate.net/profile/Afishata-Abujaja) to her credit and the main author of a book. She served on different boards of University for Development Studies as a member to Academic Board, Executive Committee, Budget Committee, Finance Committee, and Academic Planning Committee. She also served on some boards in Damongo Diocese, including Member and Secretary to Diocesan Education and Gender Committee. Representative of the Damongo Diocese on the Tamale Ecclesiastical Province Pastoral Conference (TEPPCON) education Commission. She has contributed to the development of new programmes in the University for Development Studies, mainly in the development of Diploma/Bachelor/MED/MPhil programmes in Agricultural Science Education. Dr. Abujaja is currently a collaborator and the gender expert to Feed the Future Innovation Laboratory for Peanut Ghana Project. She was once also the gender specialist on USAID Feed the Future project on Innovation Laboratory on Small Scale Irrigation in Ethiopia, Tanzania and Ghana. She was once also involved in WLE-CIAT/UDS/IUCN/ACDEP research project which was targeted at improving livelihoods in the Volta basin landscape through strengthening of farmer led approached to ecosystem-based management. She also became the Gender Consultant for the end of project evaluation of programme results and Participatory Outcome Assessment (POA) and Project Compilation Report (PCR) for Northern Rural Growth Project (NRGP) in 2016. She has held various positions at the Damongo Diocesan Office. She was the Gender and Education Coordinator at Damongo Diocese and later became the Ag. desk officer for Women in Peace Building (WIP) for Center for Conflict Transformation and Peace Studies (2002-2011). She was subsequently involved in projects sponsored by Kindernmissionswerk die Stersinger, Aachen, Germany and CORDAID.  She further coordinated and facilitated the establishment St. Annes’ Girls Senior High School in Damongo, St. Cyprian Minor Seminary/Senior High School in Sawla, St. Padua Business/Vocational School in Bamboi, and Martyrs of Uganda Vocational/Technical School in Bole. Ms. Abujaja an empathic communicator and she is able to see things from other people’s point of view hence able to get on well with others as a good team player. She has the ability to coordinate, facilitate and promote research activities and believe in academic freedom, creativity and innovation.
 
-Deborah .D. Kanubala is an NLP Engineer at Proto and also the co-organizer for the WiMLDS Accra-Ghana chapter and the co-founder of [Women Promoting Science to the younger Generation (WPSYG)](https://www.linkedin.com/in/women-promoting-science-to-the-younger-association-661a5317b/). She is currently enrolled as a graduate student at the [University of Saarland](https://www.uni-saarland.de/en/home.html) in Germany. Prior to this, she was a lecturer in Data Science and Artificial Intelligence at the [Academic City University College, Accra Ghana](https://acity.edu.gh/). She completed her bachelor's degree in Financial Mathematics and a Master's degree in Mathematical Science with a specialization in Big Data and Financial Mathematics. In addition, she recently completed her second masters degree with the prestigious [Africa Masters in Machine Intelligence](www.aimsammi.org) sponsored by Google and Facebook. She hails from the Northern part of Ghana which happens to be a region that remains underprivileged when it comes to women in STEM and ICT in Ghana. However, she has risen above the odds to gain a Master’s in mathematics and have been engaged in several activities that seeks to promote more women in STEM. Due to her active participation and promotion of women in STEM, she was voted among the  20 Most influential people in Northern Ghana, STEM Category. Also, she was listed among [80 African Women Advancing Artificial Intelligence in Africa and the World](https://africanshapers.com/en/80-african-women-advancing-artificial-intelligence-in-africa-and-the-world/). Ms.Kanubala has been a recipient of several awards and grants including the Mastercard Foundation scholars grant, Alumnode grant from Germany and MIT Prize, and google awards during Indaba in Kenya and Indabax Ghana respectively. She envision a future where people will be assessed based on their skill set rather than their gender.
-
+ 
 
 ---
 
 ### Research Interests
 My research interests include but not limited to:
 
-  - Fair Machine Learning
-  - Causality
-  - Explainability
-  - AI ethics
-  - Natural Language Processing
+  - Gender, Rural Development
+  - Agribusiness and Extension
 
 
 ---
-
-### Talks and Presentations
-- [Building a career in  AI and Machine Learning: ](https://www.youtube.com/watch?v=ax8y10-orCQ&t=1707s) Hacklab Founders Stories, Accra, Ghana. 
-- [ Machine Learning Summer School: ](https://www.youtube.com/watch?v=_uO32s6N2zE&list=PLRdJhevE1cHI3lf8S1-86_I7fk_aw1EfS) Machine Learning in pricing options Germany.
-- [Pyladies Night: ](https://pythonghana.blogspot.com/2020/04/pyladies-night-with-deborah-kanubala.html) Is AI going to do us more harm than good?, Accra, Ghana. 
-- [Symposium Talk Day 4: ](https://www.youtube.com/watch?v=a5suzFXFI3g&t=42s) Deep Learning Indaba, Nairobi, Kenya. 
-- [Mentor Tell my story: ](https://www.facebook.com/NSMQGhana/posts/nsmqwomanoftheweek-is-deborah-kanubala-ms-kanubala-lives-and-breathes-mathematic/1729871123817174/) National Science and Mathemaics Quiz, Accra, Ghana. 
-- [Heidelberg Laureate Forum Interview: ](https://www.youtube.com/watch?v=jnUGhiAmv30&t=51s) 6th HLF, Heidelberg, Germany. 
 
 
 
@@ -62,15 +51,12 @@ My research interests include but not limited to:
 
 ### News
 
-- [Oct 2021] I joined  [University of Saarland](https://www.uni-saarland.de/en/home.html) as a graduate student, Saarbrucken, Germany
-- [Sep 2020] I joined  [Academic City University College ](https://acity.edu.gh/) as a lecturer in Data Science and AI, Accra Ghana
-- [Jun 2020] I was accepted for the [DLRL Summer School 2020](https://dlrlsummerschool.ca/) hosted by [CIFAR](https://www.cifar.ca/) and [Mila](https://mila.quebec/en/)
-- [Jun 2020] I was accepted for the [Machine Learning Summer Schools](http://mlss.tuebingen.mpg.de/) hosted by [Max Planck Institute for Intelligent Systems](http://is.tuebingen.mpg.de/), Tübingen, Germany
+- [April 2022] I completed my PhD Studies from  [University for Development Studies](https://www.linkedin.com/posts/kanubalad_inspiration-phd-womanempowerment-activity-6926818589479993344-Zv4R?utm_source=linkedin_share&utm_medium=member_desktop_web) in Innovations Communication, Tamale, Ghana.
 
 
 
 ---
 
 ### Contacts
-- Phone: (+233) 20 074 5006 (Ghana) 
-- Email: dkanubala@aimsammi.org
+- Phone: (+233) 243 414 345 
+- Email: mabujaja@uds.edu.gh /afiabujaja@yahoo.com

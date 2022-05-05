@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Awards and Publications"
+title: "Book and Paper Publications"
 tagline : ""
 use_math: true
 lang: zh
@@ -49,14 +49,12 @@ lang: zh
 
 <tr style="border-bottom:1pt solid #eee" >
 <td markdown="1">
-![spiden](/img/main/clinical_paper.jpg){:class="img-shadow"}
+![spiden](/img/main/March22.png){:class="img-shadow"}
 </td>
 !-- <td></td> -->
 <td markdown="1">
-<div><b>Efficient Prediction of Missed Clinical Appointment Using Machine Learning</b></div>
-<div>
-Public health and its related facilities are crucial for thriving cities and societies. The casual attitude of missing medical appointments may cause severe damage to a patient's health. Our study has achieved 94% recall, 86% accuracy, 83% precision, 87% F1-score and 92% area under the curve.  </div>
-|| <em class="icon-home"/> || [link](https://www.hindawi.com/journals/cmmm/2021/2376391/) 
+<div><b>African Journal of Agricultural Research Prospects and constraints faced by smallholder farmers in the cultivation of GM crops: A case study from Northern Ghana</b></div>
+|| <em class="icon-home"/> || [link](http://dx.doi.org/10.5897/AJAR2021.15809) 
 </td> 
 </tr>
 
@@ -64,34 +62,31 @@ Public health and its related facilities are crucial for thriving cities and soc
 
 <tr style="border-bottom:1pt solid #eee" >
 <td markdown="1">
-![spiden](/img/main/mcf_scholars.png){:class="img-shadow"}
+![spiden](/img/main/world_journal.png){:class="img-shadow"}
 </td>
 !-- <td></td> -->
 <td markdown="1">
-<div><b>Mastercard Foundation Scholars Research Grant</b></div>
-<div>
-The Mastercard Foundation Scholars Program is developing Africa’s next generation of leaders. The program allows students whose talent and promise exceed their financial resources to complete their education. With a vision that education is a catalyst for social and economic change, the program focuses on developing leaders who are transformative, encouraging them to be active contributors in their communities.</div>
-|| <em class="icon-home"/> || [link](https://mastercardfdn.org/all/scholars/) 
+<div><b>Effectiveness of Project Method of Teaching on Agricultural Knowledge and Skills Acquisition among Agricultural Science Students of Awe Senior High School in the Upper East Region, Ghana WJER Effectiveness of Project Method of Teaching on Agricultural Knowledge and Skills Acquisition among Agricultural Science Students of Awe Senior High School in the Upper East Region, Ghana</b></div>
+|| <em class="icon-home"/> || [link](https://www.researchgate.net/publication/329656414_Effectiveness_of_Project_Method_of_Teaching_on_Agricultural_Knowledge_and_Skills_Acquisition_among_Agricultural_Science_Students_of_Awe_Senior_High_School_in_the_Upper_East_Region_Ghana_WJER_Effective?_sg%5B0%5D=QiKLSXxtYoQ_g4dJ2NZyPmeiAfagTglr-JXlg6D3h2282-lOGM3IypMVogEGoOU5UvKYQYPCwd5G57Ied79NVSn7bndifO_lEvVoCp0w.r5wQN489SIWAhM5T0oAtqgkUCCzFBChg6jmdV5Z7xoFmTQzbpuhCoWH-waO_0ypN7uOKps26aMFF7d6Mq4_Hag) 
 </td> 
 </tr>
 
 
-
-</tr>
 
 <tr style="border-bottom:1pt solid #eee" >
 <td markdown="1">
-![spiden](/img/main/alumnode.png){:class="img-shadow"}
+![spiden](/img/main/world_journal.png){:class="img-shadow"}
 </td>
-<td></td>
+!-- <td></td> -->
 <td markdown="1">
-<div><b>Alumnode Project Grants</b></div>
-<div>
-AlumNode is a collaboration of Heidleberg Laureate Fourm Foundation (HLFF) and German Scholars Organization (GSO). It is funded by the Klaus Tschira Foundation gGmbH.
-</div>
-|| <em class="icon-home"/> || [link](https://alumnode.org/alumni-projects/breaking-stem-gap-rural-africa/) 
+<div><b>Challenges of Teaching and Learning of Agricultural Practical Skills: The case of Deploying Project Method of Teaching among Students of Awe Senior High School in the Upper East Region, Ghana IJAEE Challenges of Teaching and Learning of Agricultural Practical Skills: The case of Deploying Project Method of Teaching among Students of Awe Senior High School in the Upper East Region, Ghana</b></div>
+|| <em class="icon-home"/> || [link](https://www.researchgate.net/publication/328410245_Challenges_of_Teaching_and_Learning_of_Agricultural_Practical_Skills_The_case_of_Deploying_Project_Method_of_Teaching_among_Students_of_Awe_Senior_High_School_in_the_Upper_East_Region_Ghana_IJAEE_Chal?_sg%5B0%5D=QiKLSXxtYoQ_g4dJ2NZyPmeiAfagTglr-JXlg6D3h2282-lOGM3IypMVogEGoOU5UvKYQYPCwd5G57Ied79NVSn7bndifO_lEvVoCp0w.r5wQN489SIWAhM5T0oAtqgkUCCzFBChg6jmdV5Z7xoFmTQzbpuhCoWH-waO_0ypN7uOKps26aMFF7d6Mq4_Hag) 
 </td> 
 </tr>
+
+
+
+
 
 <!-- <tr height="50">
 <td style="padding-left: 1px;
