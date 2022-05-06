@@ -1,3 +1,3 @@
 # Personal Website
 
-Forked from [Salomon Kabongo Website](https://github.com/skabongo/skabongo.github.io)
+This project was copied from  [Prof.Dr.Isabel Website](https://github.com/ivaleraM/ivaleraM.github.io)
